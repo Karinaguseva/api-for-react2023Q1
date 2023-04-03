@@ -7,7 +7,7 @@
       "ingredient": "Puffskein Fur",
       "prerequisite": "Must complete main story quest \"The Elf, the Nab-sack, and the Loom\"",
       "cost": 150,
-      "image": "images/Puffskein.jpg"
+      "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Puffskein.jpg?raw=true"
     },
     {
       "id": 1,
@@ -16,7 +16,7 @@
       "ingredient": "Fwooper Feather",
       "prerequisite": "Must complete main story quest \"The Elf, the Nab-sack, and the Loom\"",
       "cost": 250,
-      "image": "images/Fwooper.jpg"
+      "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Fwooper.jpg?raw=true"
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "ingredient": "Jobberknoll Feather",
       "prerequisite": "Must complete main story quest \"The Elf, the Nab-sack, and the Loom\"",
       "cost": 150,
-      "image": "images/Jobberknoll.jpg"
+      "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Jobberknoll.jpg?raw=true"
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "ingredient": "Graphorn Horn",
       "prerequisite": "Must complete main story quest \"San Bakar's Trial\"",
       "cost": 700,
-      "image": "images/Graphorn.jpg"
+      "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Graphorn.jpg?raw=true"
     },
     {
       "id": 4,
@@ -43,7 +43,7 @@
       "ingredient": "Mooncalf Fur",
       "prerequisite": "Must complete main story quest \"The Elf, the Nab-sack, and the Loom\"",
       "cost": 150,
-      "image": "images/Mooncalf.jpg"
+      "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Mooncalf.jpg?raw=true"
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
       "ingredient": "Unicorn Hair",
       "prerequisite": "Must complete main story quest \"The Elf, the Nab-sack, and the Loom\"",
       "cost": 700,
-      "image": "images/Unicorn.jpg"
+      "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Unicorn.jpg?raw=true"
     },
     {
       "id": 6,
@@ -61,7 +61,7 @@
       "ingredient": "Niffler Fur",
       "prerequisite": "Must complete main story quest \"The Elf, the Nab-sack, and the Loom\"",
       "cost": 250,
-      "image": "images/Niffler.jpg"
+      "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Niffler.jpg?raw=true"
     },
     {
       "id": 7,
@@ -70,7 +70,7 @@
       "ingredient": "Toad Warts",
       "prerequisite": "Must complete main story quest \"The Elf, the Nab-sack, and the Loom\"",
       "cost": 400,
-      "image": "images/Toad.jpg"
+      "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Toad.jpg?raw=true"
     },
     {
       "id": 8,
@@ -79,7 +79,7 @@
       "ingredient": "Thestral Hair",
       "prerequisite": "Must complete main story quest \"The Elf, the Nab-sack, and the Loom\"",
       "cost": 400,
-      "image": "images/Thestral.jpg"
+      "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Thestral.jpg?raw=true"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "ingredient": "Hippogriff Feather",
       "prerequisite": "Must complete main story quest \"The High Keep\"",
       "cost": 700,
-      "image": "images/Hippogriff.jpg"
+      "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Hippogriff.jpg?raw=true"
     },
     {
       "id": 10,
@@ -97,7 +97,7 @@
       "ingredient": "Kneazle Fur",
       "prerequisite": "Must complete main story quest \"The Elf, the Nab-sack, and the Loom\"",
       "cost": 400,
-      "image": "images/Kneazle.jpg"
+      "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Kneazle.jpg?raw=true"
     },
     {
       "id": 11,
@@ -106,7 +106,7 @@
       "ingredient": "Diricawl Feather",
       "prerequisite": "Must complete main story quest \"The Elf, the Nab-sack, and the Loom\"",
       "cost": 250,
-      "image": "images/Diricawl.jpg"
+      "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Diricawl.jpg?raw=true"
     },
     {
       "id": 12,
@@ -115,7 +115,7 @@
       "ingredient": "Phoenix Feather",
       "prerequisite": "Must complete the side quest \"Phoenix Rising\"",
       "cost": 700,
-      "image": "images/Phoenix.jpg"
+      "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Phoenix.jpg?raw=true"
     }
   ]
 }
