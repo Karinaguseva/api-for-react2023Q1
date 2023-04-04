@@ -1,7 +1,7 @@
 {
   "cards": [
     {
-      "id": 0,
+      "id": 1,
       "name": "Puffskein",
       "description": "Puffskeins are round and fluffy beasts, soft enough to cuddle but tough enough to be thrown around. Puffskeins will eat almost anything, but their favorite meal is bogies. They are common household pets for wizarding families because they are easy to maintain.",
       "ingredient": "Puffskein Fur",
@@ -10,7 +10,7 @@
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Puffskein.jpg?raw=true"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Fwooper",
       "description": "A Fwooper is a colourful bird thst has a song known to drive peaople mad.",
       "ingredient": "Fwooper Feather",
@@ -19,7 +19,7 @@
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Fwooper.jpg?raw=true"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Jobberknoll",
       "description": "A Jobberknoll is a small speckled bluebird, which never makes any noise until the moment of its death.",
       "ingredient": "Jobberknoll Feather",
@@ -28,7 +28,7 @@
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Jobberknoll.jpg?raw=true"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Graphorn",
       "description": "Graphorns are large mountain-dwelling beasts that have a tough hide and two sharp horns. The tentacle-like appendages on Graphorns’ faces are used for capturing food and tending to their young. Graphorns are known for their aggressive nature; however, a witch of wizard has been known to befriend one in rare circumstances.",
       "ingredient": "Graphorn Horn",
@@ -37,7 +37,7 @@
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Graphorn.jpg?raw=true"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Mooncalf",
       "description": "The Mooncalf is a small, calf-like beast with enormous eyes and a shy personality. They can be observed dancing when the light of the full moon hits the ground.",
       "ingredient": "Mooncalf Fur",
@@ -46,7 +46,7 @@
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Mooncalf.jpg?raw=true"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Unicorn",
       "description": "The Unicorn is a shy and beautiful equine beast that sports a horn from its head. The foals are said to have shimmering golden coats.",
       "ingredient": "Unicorn Hair",
@@ -55,7 +55,7 @@
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Unicorn.jpg?raw=true"
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "Niffler",
       "description": "The Niffler is a small, furry and mischievous beast that causes mayhem in its pursuit of shiny objects which it stores in its marsupial-like pouch.",
       "ingredient": "Niffler Fur",
@@ -64,7 +64,7 @@
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Niffler.jpg?raw=true"
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "Giant Purple Toad",
       "description": "A large magical toad with warts that are useful in potion-making.",
       "ingredient": "Toad Warts",
@@ -73,7 +73,7 @@
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Toad.jpg?raw=true"
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "Thestral",
       "description": "The Thestral is a haunted, winged equine beast that is only visible to those who have seen death.",
       "ingredient": "Thestral Hair",
@@ -82,7 +82,7 @@
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Thestral.jpg?raw=true"
     },
     {
-      "id": 9,
+      "id": 10,
       "name": "Hippogriff",
       "description": "The Hippogriff is a majestic beast with the front half of an eagle and the back half of a horse. The Hippogriff can soar great distances and commands the respect of anyone who dares to approach it.",
       "ingredient": "Hippogriff Feather",
@@ -91,7 +91,7 @@
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Hippogriff.jpg?raw=true"
     },
     {
-      "id": 10,
+      "id": 11,
       "name": "Kneazle",
       "description": "Kneazles are cat-like beasts that have large ears and a plumed tail. They can be aggressive, but if they like a witch or wizard, they make exceptional pets. Kneazles are highly intelligent and have an ability to detect suspicious or distrustful people.",
       "ingredient": "Kneazle Fur",
@@ -100,7 +100,7 @@
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Kneazle.jpg?raw=true"
     },
     {
-      "id": 11,
+      "id": 12,
       "name": "Diricawl",
       "description": "Diricawls are plump, fluffy birds incapable of flight. They have the unique ability to vanish and reappear to escape danger. Muggles were aware of these birds at one time and called them Dodos. However, Muggles now believe them to be extinct.",
       "ingredient": "Diricawl Feather",
@@ -109,7 +109,7 @@
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Diricawl.jpg?raw=true"
     },
     {
-      "id": 12,
+      "id": 13,
       "name": "Phoenix",
       "description": "The phoenix is an elegant, rare bird that possesses powerful magic. It is reborn from its ashes after bursting into flames. The loyalty of the phoenix is hard won.",
       "ingredient": "Phoenix Feather",
