@@ -18,9 +18,7 @@
       "prerequisite": "Must complete main story quest \"The Elf, the Nab-sack, and the Loom\"",
       "cost": 250,
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Fwooper.jpg?raw=true"
-    }
-  ],
-  "page2": [
+    },
     {
       "id": 3,
       "name": "Jobberknoll",
@@ -40,7 +38,7 @@
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Graphorn.jpg?raw=true"
     }
   ],
-  "page3": [
+  "page2": [
     {
       "id": 5,
       "name": "Mooncalf",
@@ -58,9 +56,7 @@
       "prerequisite": "Must complete main story quest \"The Elf, the Nab-sack, and the Loom\"",
       "cost": 700,
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Unicorn.jpg?raw=true"
-    }
-  ],
-  "page4": [
+    },
     {
       "id": 7,
       "name": "Niffler",
@@ -80,7 +76,7 @@
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Toad.jpg?raw=true"
     }
   ],
-  "page5": [
+  "page3": [
     {
       "id": 9,
       "name": "Thestral",
@@ -98,9 +94,7 @@
       "prerequisite": "Must complete main story quest \"The High Keep\"",
       "cost": 700,
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Hippogriff.jpg?raw=true"
-    }
-  ],
-  "page6": [
+    },
     {
       "id": 11,
       "name": "Kneazle",
@@ -120,7 +114,7 @@
       "image": "https://github.com/Karinaguseva/api-for-react2023Q1/blob/main/images/Diricawl.jpg?raw=true"
     }
   ],
-  "page7": [
+  "page4": [
     {
       "id": 13,
       "name": "Phoenix",
